@@ -1,0 +1,1 @@
+Angular 4 Two Way Data Binding, Master Detail.
