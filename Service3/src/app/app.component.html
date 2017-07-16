@@ -1,0 +1,8 @@
+
+<h3>Angular Service - Shalvin</h3>
+
+<ul>
+ <li *ngFor = "let c of contacts" (click) = "onSelect(c)"> {{c.name}}
+  </ul>
+
+<app-contact-detail [contact] = selectedContact></app-contact-detail>
